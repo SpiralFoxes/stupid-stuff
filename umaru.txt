@@ -20,7 +20,13 @@ Fuck it,Make everything modular, even the key bind system.   UNIX PHILOSOPHY BOO
 
 Emacs based, but again cause everything is modular you can switch that out for vi. (Why does everyone like vim again?
 
+Multi monitor simulation on one monitor. 
+
+Switching different workspaces for different monitors
+
 Basically, the Ubuntu of tiling window managers, for people who can't configure Debian(i3)
+
+
 
 
 
