@@ -1,0 +1,31 @@
+Umaru - a window manager that's like i3 but for stupid people like me, who can't configure every thing. Seriously, I hate Lua. It would have features like: 
+
+actual wallpapers not controlled by a Lua file, 
+
+a bar,
+
+ Xresources-style configuration, 
+
+a cool name, 
+
+tiling but with some dynamic components so you can overlay a music player on top of whatever you're doing and toggle it with a hot key or something
+
+Written in C, C++, Haskell, something speedy
+
+Being almost as fast as keemstar
+
+Have the bar also be modular, so if you have a bar you like, you can turn off umaru-bar and get something else
+
+Fuck it,Make everything modular, even the key bind system.   UNIX PHILOSOPHY BOOOIIII
+
+Emacs based, but again cause everything is modular you can switch that out for vi. (Why does everyone like vim again?
+
+Basically, the Ubuntu of tiling window managers, for people who can't configure Debian(i3)
+
+
+
+
+
+
+
+
